@@ -6,8 +6,9 @@ You should check out my website for detailed statistics on my recent activity \
 [**dstn.to**](https://dstn.to)
 
 If you don't follow me on Twitter you're missing out, I'm super active over there most the time. \
-[**@dustinrouillard**](https://dstn.to/twitter) : [**dstn.to/twitter**](https://dstn.to/twitter)
+🐦 : [**@dustinrouillard**](https://dstn.to/twitter)
 
 📧 : [**comms@dstn.to**](mailto://comms@dstn.to) \
+📡 : [**AS21761**](https:/dstn.llc) \
 Discord : [**dstn.to/discord**](https://dstn.to/discord) \
 Interested in the dotfiles that power my daily workflow? [**dstn.to/dotfiles**](https://dstn.to/dotfiles)
