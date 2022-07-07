@@ -9,6 +9,6 @@ If you don't follow me on Twitter you're missing out, I'm super active over ther
 🐦 : [**@dustinrouillard**](https://dstn.to/twitter)
 
 📧 : [**comms@dstn.to**](mailto://comms@dstn.to) \
-📡 : [**AS21761**](https:/dstn.llc) \
+📡 : [**AS21761**](https://dstn.llc) \
 Discord : [**dstn.to/discord**](https://dstn.to/discord) \
 Interested in the dotfiles that power my daily workflow? [**dstn.to/dotfiles**](https://dstn.to/dotfiles)
