@@ -1,4 +1,4 @@
-Hey there 👋, the name's Dustin, I'm 22 years old, currently living in the desert known as New Mexico.
+Hey there 👋, the name's Dustin, I'm 23 years old, currently living in the desert known as New Mexico.
 
 I'm a self-taught Software Engineer and Systems Administrator who is obsessed with scalable infrastructure and linux systems, I am very well-versed with kubernetes, and I spend a lot of time messing around with networking.
 
