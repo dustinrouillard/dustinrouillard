@@ -1,16 +1,14 @@
-Hi there! I'm Dustin and I'm 23 years old, currently residing in New Mexico, USA, wanna to move more eastern though, to be closer to critical internet infrastructure.
+Hi there! I'm Dustin and I'm 23 years old, currently residing in New Mexico, however, it's a desert and I'd love to live somewhere more eastern, mainly to be closer to critical tech infrastructure and have access to some awesome opportunities in the IT field.
 
-I'm a self-taught Software Engineer but I strive to be as knowledgeable as possible in a wide variety of fields, a guy with many skills, but a master a none, which is exactly where I wanna be, I'm happy here. I like to make stuff that people might find useful, but currently my focus has been more on scaling enterprise grade networks, and maintaining highly available infrastructure. \
-*(Need a bare metal kubernetes cluster with HA, or some systems administration? Let's chat)*
-
+I'm a self-taught Software Engineer and Systems Administrator, but I break into many different fields and I’m fairly knowledgeable in most things surrounding servers, networking, and software. Making tools and services that make lives easier or better in some way is what I love to do.
 ___
 
-💼 : Currently working as Systems Administrator at **[Hop](https://hop.io)** \
-*We're a cloud platform focusing on supporting real-time, high-bandwidth applications.*  - *Learn more at [hop.io](https://hop.io)*
+Got v6?: `mtr yo.dstn.to`
 
 🌐 : [**dstn.to**](https://dstn.to) \
 🐦 : [**@dustinrouillard**](https://dstn.to/twitter) \
 📧 : [**comms@dstn.to**](mailto://comms@dstn.to) \
 📡 : [**AS21761**](https://as21761.net) \
 Discord : [**dstn.to/discord**](https://dstn.to/discord) \
-Interested in the dotfiles that power my daily workflow? [**dstn.to/dotfiles**](https://dstn.to/dotfiles)
+Interested in the dotfiles that power my daily workflow? [**dstn.to/dotfiles**](https://dstn.to/dotfiles) \
+*(Need some help on a project with my skillset? Let's chat **[dstn.llc](https://dstn.llc)**)*
