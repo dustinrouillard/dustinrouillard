@@ -3,7 +3,7 @@ Hi there! I'm Dustin and I'm 23 years old, currently residing in New Mexico, how
 I'm a self-taught Software Engineer and Systems Administrator, but I break into many different fields and I’m fairly knowledgeable in most things surrounding servers, networking, and software. Making tools and services that make lives easier or better in some way is what I love to do.
 ___
 
-Got v6?: `mtr yo.dstn.to`
+Got v6?: `traceroute yo.dstn.to`
 
 🌐 : [**dstn.to**](https://dstn.to) \
 🐦 : [**@dustinrouillard**](https://dstn.to/twitter) \
