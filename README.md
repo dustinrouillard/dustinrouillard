@@ -1,4 +1,4 @@
-Hi there! I'm Dustin and I'm 24 years old, currently residing in New Mexico, however, it's a desert and I'd love to live somewhere more eastern, mainly to be closer to critical network infrastructure and have access to some awesome opportunities in the IT field.
+Hi there! I'm Dustin and I'm 25 years old, currently residing in New Mexico, however, it's a desert and I'd love to live somewhere more eastern, mainly to be closer to critical network infrastructure and have access to some awesome opportunities in the IT field.
 
 I'm a self-taught Software Engineer and Systems Administrator, but I break into many different fields and I’m fairly knowledgeable in most things surrounding servers, networking, and software. Making tools and services that make lives easier or better in some way is what I love to do.
 ___
